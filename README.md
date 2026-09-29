@@ -6,6 +6,7 @@ Gerçek veriyle yapılmış, her biri kendi başına çalışan küçük veri an
 
 | Proje · Project | Konu · Topic | Araçlar · Tools | Demo |
 |---|---|---|---|
+| [İkinci El Araç Fiyat Tahmini](06-tahmin-modeli-arayuz/) | 50 bin ilanla eğitilmiş fiyat tahmin modeli ve web arayüzü · Price prediction model with a web app | Python, scikit-learn, pandas, Streamlit | _yakında · soon_ |
 | [Fiyat Takip Botu](04-fiyat-takip-botu/) | Dolar, euro, altın ve bitcoin fiyatını her gün kaydedip düşüşte uyaran otomasyon · Daily price tracker with drop alerts | Python, SQLite, pandas, matplotlib, pytest, GitHub Actions | [Grafikler · Charts](04-fiyat-takip-botu/#fiyat-takip-botu) |
 | [Son 30 Günün Depremleri](05-canli-veri-haritasi/) | Açık API'den veri çekip her gün otomatik güncellenen interaktif harita · Daily auto-updating interactive map from an open API | Python, pandas, folium, matplotlib, GitHub Actions | [Canlı harita · Live map](https://furkansoysal.github.io/veri-bilimi-projeleri/05-canli-veri-haritasi/cikti/deprem_haritasi.html) |
 

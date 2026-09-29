@@ -1,0 +1,2604 @@
+{
+ "veri_tarihi": "Ağustos 2025",
+ "markalar": {
+  "Alfa Romeo": [
+   "146",
+   "147",
+   "156",
+   "159",
+   "Giulietta"
+  ],
+  "Audi": [
+   "A1",
+   "A3",
+   "A4",
+   "A5",
+   "A6",
+   "A7",
+   "A8"
+  ],
+  "BMW": [
+   "1 Serisi",
+   "2 Serisi",
+   "3 Serisi",
+   "4 Serisi",
+   "5 Serisi",
+   "7 Serisi",
+   "M Serisi",
+   "i Serisi"
+  ],
+  "Chery": [
+   "Alia",
+   "Kimo"
+  ],
+  "Chevrolet": [
+   "Aveo",
+   "Camaro",
+   "Cruze",
+   "Epica",
+   "Kalos",
+   "Lacetti",
+   "Rezzo",
+   "Spark"
+  ],
+  "Chrysler": [
+   "300 C",
+   "Sebring"
+  ],
+  "Citroen": [
+   "AMİ",
+   "C-Elysee",
+   "C1",
+   "C2",
+   "C3",
+   "C4",
+   "C4 Grand Picasso",
+   "C4 Picasso",
+   "C4 X",
+   "C5",
+   "Saxo",
+   "Xsara",
+   "e-C4",
+   "e-C4 X"
+  ],
+  "Cupra": [
+   "Leon"
+  ],
+  "DS Automobiles": [
+   "DS4"
+  ],
+  "Dacia": [
+   "Jogger",
+   "Lodgy",
+   "Logan",
+   "Sandero",
+   "Solenza"
+  ],
+  "Daewoo": [
+   "Lanos",
+   "Nexia",
+   "Nubira"
+  ],
+  "Daihatsu": [
+   "Sirion"
+  ],
+  "Fiat": [
+   "500 Ailesi",
+   "Albea",
+   "Brava",
+   "Bravo",
+   "Egea",
+   "Linea",
+   "Marea",
+   "Palio",
+   "Punto",
+   "Siena",
+   "Tempra",
+   "Tipo",
+   "Uno"
+  ],
+  "Ford": [
+   "C-Max",
+   "Escort",
+   "Fiesta",
+   "Focus",
+   "Fusion",
+   "Ka",
+   "Mondeo",
+   "Taunus"
+  ],
+  "Geely": [
+   "Echo",
+   "Emgrand",
+   "Familia"
+  ],
+  "Honda": [
+   "Accord",
+   "City",
+   "Civic",
+   "Jazz"
+  ],
+  "Hyundai": [
+   "Accent",
+   "Accent Blue",
+   "Accent Era",
+   "Elantra",
+   "Excel",
+   "Getz",
+   "Ioniq",
+   "Matrix",
+   "i10",
+   "i20",
+   "i20 Troy",
+   "i30"
+  ],
+  "Jaguar": [
+   "X-Type",
+   "XE",
+   "XF"
+  ],
+  "Kia": [
+   "Ceed",
+   "Cerato",
+   "Picanto",
+   "Pride",
+   "Pro Ceed",
+   "Rio",
+   "Sephia",
+   "Venga"
+  ],
+  "Lada": [
+   "Kalina",
+   "Samara",
+   "Vega"
+  ],
+  "Lancia": [
+   "Delta",
+   "Ypsilon"
+  ],
+  "MG": [
+   "MG4"
+  ],
+  "MINI": [
+   "Cooper",
+   "Cooper Clubman",
+   "Cooper S",
+   "One"
+  ],
+  "Maserati": [
+   "Ghibli"
+  ],
+  "Mazda": [
+   "2",
+   "3",
+   "323",
+   "6",
+   "626",
+   "Lantis"
+  ],
+  "Mercedes - Benz": [
+   "190",
+   "200",
+   "230",
+   "300",
+   "A",
+   "B",
+   "C",
+   "CLA",
+   "CLK",
+   "CLS",
+   "E",
+   "EQE",
+   "S"
+  ],
+  "Mitsubishi": [
+   "Carisma",
+   "Colt",
+   "Lancer",
+   "Space Star"
+  ],
+  "Nissan": [
+   "Almera",
+   "Maxima",
+   "Micra",
+   "Note",
+   "Primera",
+   "Pulsar",
+   "Sunny"
+  ],
+  "Opel": [
+   "Astra",
+   "Corsa",
+   "Insignia",
+   "Meriva",
+   "Vectra",
+   "Zafira"
+  ],
+  "Peugeot": [
+   "106",
+   "107",
+   "206",
+   "206+",
+   "207",
+   "208",
+   "301",
+   "306",
+   "307",
+   "308",
+   "406",
+   "407",
+   "508"
+  ],
+  "Porsche": [
+   "911",
+   "Panamera",
+   "Taycan"
+  ],
+  "Proton": [
+   "415",
+   "416",
+   "418",
+   "Gen 2"
+  ],
+  "Renault": [
+   "Clio",
+   "Fluence",
+   "Laguna",
+   "Latitude",
+   "Megane",
+   "R 12",
+   "R 19",
+   "R 9",
+   "Scenic",
+   "Symbol",
+   "Taliant"
+  ],
+  "Rover": [
+   "216",
+   "416"
+  ],
+  "Seat": [
+   "Altea",
+   "Cordoba",
+   "Ibiza",
+   "Leon",
+   "Toledo"
+  ],
+  "Skoda": [
+   "Fabia",
+   "Favorit",
+   "Felicia",
+   "Forman",
+   "Octavia",
+   "Rapid",
+   "Roomster",
+   "Scala",
+   "SuperB"
+  ],
+  "Smart": [
+   "ForFour"
+  ],
+  "Subaru": [
+   "Impreza",
+   "Legacy"
+  ],
+  "Suzuki": [
+   "Alto",
+   "Baleno",
+   "Maruti",
+   "SX4",
+   "Swift"
+  ],
+  "Tata": [
+   "Indica",
+   "Indigo",
+   "Marina",
+   "Vista"
+  ],
+  "Tesla": [
+   "Model Y"
+  ],
+  "Tofaş": [
+   "Doğan",
+   "Kartal",
+   "Murat",
+   "Serçe",
+   "Şahin"
+  ],
+  "Toyota": [
+   "Auris",
+   "Avensis",
+   "Corolla",
+   "Verso",
+   "Yaris"
+  ],
+  "Volkswagen": [
+   "Bora",
+   "Golf",
+   "Jetta",
+   "New Beetle",
+   "Passat",
+   "Passat Variant",
+   "Polo",
+   "Scirocco",
+   "VW CC"
+  ],
+  "Volvo": [
+   "C30",
+   "S40",
+   "S60",
+   "S80",
+   "S90",
+   "V40",
+   "V40 Cross Country",
+   "V50",
+   "V90 Cross Country"
+  ]
+ },
+ "seri_varsayilan": {
+  "Alfa Romeo|146": {
+   "motor_hacmi": 1370.0,
+   "motor_gucu": 103.0,
+   "yakit_tipi": "LPG & Benzin",
+   "vites_tipi": "Düz",
+   "kasa_tipi": "Hatchback/5",
+   "yil": 1998,
+   "adet": 11
+  },
+  "Alfa Romeo|147": {
+   "motor_hacmi": 1598.0,
+   "motor_gucu": 120.0,
+   "yakit_tipi": "LPG & Benzin",
+   "vites_tipi": "Düz",
+   "kasa_tipi": "Hatchback/5",
+   "yil": 2005,
+   "adet": 38
+  },
+  "Alfa Romeo|156": {
+   "motor_hacmi": 1598.0,
+   "motor_gucu": 120.0,
+   "yakit_tipi": "LPG & Benzin",
+   "vites_tipi": "Düz",
+   "kasa_tipi": "Sedan",
+   "yil": 2004,
+   "adet": 56
+  },
+  "Alfa Romeo|159": {
+   "motor_hacmi": 1910.0,
+   "motor_gucu": 150.0,
+   "yakit_tipi": "Dizel",
+   "vites_tipi": "Düz",
+   "kasa_tipi": "Sedan",
+   "yil": 2008,
+   "adet": 23
+  },
+  "Alfa Romeo|Giulietta": {
+   "motor_hacmi": 1598.0,
+   "motor_gucu": 120.0,
+   "yakit_tipi": "Dizel",
+   "vites_tipi": "Düz",
+   "kasa_tipi": "Hatchback/5",
+   "yil": 2014,
+   "adet": 81
+  },
+  "Audi|A1": {
+   "motor_hacmi": 1500.0,
+   "motor_gucu": 90.0,
+   "yakit_tipi": "Benzin",
+   "vites_tipi": "Otomatik",
+   "kasa_tipi": "Hatchback/5",
+   "yil": 2012,
+   "adet": 17
+  },
+  "Audi|A3": {
+   "motor_hacmi": 1500.0,
+   "motor_gucu": 113.0,
+   "yakit_tipi": "Benzin",
+   "vites_tipi": "Otomatik",
+   "kasa_tipi": "Hatchback/5",
+   "yil": 2015,
+   "adet": 876
+  },
+  "Audi|A4": {
+   "motor_hacmi": 1900.0,
+   "motor_gucu": 150.0,
+   "yakit_tipi": "Benzin",
+   "vites_tipi": "Otomatik",
+   "kasa_tipi": "Sedan",
+   "yil": 2014,
+   "adet": 479
+  },
+  "Audi|A5": {
+   "motor_hacmi": 1900.0,
+   "motor_gucu": 188.0,
+   "yakit_tipi": "Benzin",
+   "vites_tipi": "Otomatik",
+   "kasa_tipi": "Hatchback/5",
+   "yil": 2017,
+   "adet": 165
+  },
+  "Audi|A6": {
+   "motor_hacmi": 1968.0,
+   "motor_gucu": 188.0,
+   "yakit_tipi": "Benzin",
+   "vites_tipi": "Otomatik",
+   "kasa_tipi": "Sedan",
+   "yil": 2014,
+   "adet": 354
+  },
+  "Audi|A7": {
+   "motor_hacmi": 2750.0,
+   "motor_gucu": 245.0,
+   "yakit_tipi": "Benzin",
+   "vites_tipi": "Otomatik",
+   "kasa_tipi": "Coupe",
+   "yil": 2016,
+   "adet": 19
+  },
+  "Audi|A8": {
+   "motor_hacmi": 2967.0,
+   "motor_gucu": 250.0,
+   "yakit_tipi": "Benzin",
+   "vites_tipi": "Otomatik",
+   "kasa_tipi": "Sedan",
+   "yil": 2009,
+   "adet": 19
+  },
+  "BMW|1 Serisi": {
+   "motor_hacmi": 1500.0,
+   "motor_gucu": 136.0,
+   "yakit_tipi": "Benzin",
+   "vites_tipi": "Otomatik",
+   "kasa_tipi": "Hatchback/5",
+   "yil": 2014,
+   "adet": 269
+  },
+  "BMW|2 Serisi": {
+   "motor_hacmi": 1500.0,
+   "motor_gucu": 116.0,
+   "yakit_tipi": "Benzin",
+   "vites_tipi": "Otomatik",
+   "kasa_tipi": "Coupe",
+   "yil": 2021,
+   "adet": 61
+  },
+  "BMW|3 Serisi": {
+   "motor_hacmi": 1597.0,
+   "motor_gucu": 163.0,
+   "yakit_tipi": "Benzin",
+   "vites_tipi": "Otomatik",
+   "kasa_tipi": "Sedan",
+   "yil": 2013,
+   "adet": 809
+  },
+  "BMW|4 Serisi": {
+   "motor_hacmi": 1500.0,
+   "motor_gucu": 163.0,
+   "yakit_tipi": "Benzin",
+   "vites_tipi": "Otomatik",
+   "kasa_tipi": "Coupe",
+   "yil": 2016,
+   "adet": 105
+  },
+  "BMW|5 Serisi": {
+   "motor_hacmi": 1900.0,
+   "motor_gucu": 170.0,
+   "yakit_tipi": "Benzin",
+   "vites_tipi": "Otomatik",
+   "kasa_tipi": "Sedan",
+   "yil": 2014,
+   "adet": 642
+  },
+  "BMW|7 Serisi": {
+   "motor_hacmi": 2993.0,
+   "motor_gucu": 263.0,
+   "yakit_tipi": "Benzin",
+   "vites_tipi": "Otomatik",
+   "kasa_tipi": "Sedan",
+   "yil": 2011,
+   "adet": 37
+  },
+  "BMW|M Serisi": {
+   "motor_hacmi": 3250.0,
+   "motor_gucu": 434.5,
+   "yakit_tipi": "Benzin",
+   "vites_tipi": "Otomatik",
+   "kasa_tipi": "Sedan",
+   "yil": 2009,
+   "adet": 20
+  },
+  "BMW|i Serisi": {
+   "motor_hacmi": 1500.0,
+   "motor_gucu": 213.0,
+   "yakit_tipi": "Benzin",
+   "vites_tipi": "Otomatik",
+   "kasa_tipi": "Sedan",
+   "yil": 2024,
+   "adet": 32
+  },
+  "Chery|Alia": {
+   "motor_hacmi": 1597.0,
+   "motor_gucu": 112.0,
+   "yakit_tipi": "LPG & Benzin",
+   "vites_tipi": "Düz",
+   "kasa_tipi": "Sedan",
+   "yil": 2008,
+   "adet": 24
+  },
+  "Chery|Kimo": {
+   "motor_hacmi": 1297.0,
+   "motor_gucu": 85.0,
+   "yakit_tipi": "Benzin",
+   "vites_tipi": "Düz",
+   "kasa_tipi": "Hatchback/5",
+   "yil": 2010,
+   "adet": 19
+  },
+  "Chevrolet|Aveo": {
+   "motor_hacmi": 1248.0,
+   "motor_gucu": 86.0,
+   "yakit_tipi": "LPG & Benzin",
+   "vites_tipi": "Düz",
+   "kasa_tipi": "Sedan",
+   "yil": 2011,
+   "adet": 482
+  },
+  "Chevrolet|Camaro": {
+   "motor_hacmi": 4750.0,
+   "motor_gucu": 288.0,
+   "yakit_tipi": "Benzin",
+   "vites_tipi": "Otomatik",
+   "kasa_tipi": "Coupe",
+   "yil": 2012,
+   "adet": 11
+  },
+  "Chevrolet|Cruze": {
+   "motor_hacmi": 1598.0,
+   "motor_gucu": 124.0,
+   "yakit_tipi": "LPG & Benzin",
+   "vites_tipi": "Düz",
+   "kasa_tipi": "Sedan",
+   "yil": 2011,
+   "adet": 533
+  },
+  "Chevrolet|Epica": {
+   "motor_hacmi": 1991.0,
+   "motor_gucu": 150.0,
+   "yakit_tipi": "Dizel",
+   "vites_tipi": "Otomatik",
+   "kasa_tipi": "Sedan",
+   "yil": 2011,
+   "adet": 14
+  },
+  "Chevrolet|Kalos": {
+   "motor_hacmi": 1349.5,
+   "motor_gucu": 83.0,
+   "yakit_tipi": "LPG & Benzin",
+   "vites_tipi": "Düz",
+   "kasa_tipi": "Hatchback/5",
+   "yil": 2005,
+   "adet": 204
+  },
+  "Chevrolet|Lacetti": {
+   "motor_hacmi": 1598.0,
+   "motor_gucu": 109.0,
+   "yakit_tipi": "LPG & Benzin",
+   "vites_tipi": "Düz",
+   "kasa_tipi": "Hatchback/5",
+   "yil": 2006,
+   "adet": 214
+  },
+  "Chevrolet|Rezzo": {
+   "motor_hacmi": 1598.0,
+   "motor_gucu": 108.0,
+   "yakit_tipi": "LPG & Benzin",
+   "vites_tipi": "Düz",
+   "kasa_tipi": "MPV",
+   "yil": 2006,
+   "adet": 16
+  },
+  "Chevrolet|Spark": {
+   "motor_hacmi": 995.0,
+   "motor_gucu": 66.0,
+   "yakit_tipi": "Benzin",
+   "vites_tipi": "Düz",
+   "kasa_tipi": "Hatchback/5",
+   "yil": 2008,
+   "adet": 37
+  },
+  "Chrysler|300 C": {
+   "motor_hacmi": 2987.0,
+   "motor_gucu": 218.0,
+   "yakit_tipi": "Benzin",
+   "vites_tipi": "Otomatik",
+   "kasa_tipi": "Sedan",
+   "yil": 2007,
+   "adet": 26
+  },
+  "Chrysler|Sebring": {
+   "motor_hacmi": 2736.0,
+   "motor_gucu": 171.5,
+   "yakit_tipi": "Benzin",
+   "vites_tipi": "Otomatik",
+   "kasa_tipi": "Sedan",
+   "yil": 2007,
+   "adet": 17
+  },
+  "Citroen|AMİ": {
+   "motor_hacmi": 1598.0,
+   "motor_gucu": 50.0,
+   "yakit_tipi": "Elektrik",
+   "vites_tipi": "Otomatik",
+   "kasa_tipi": "Coupe",
+   "yil": 2023,
+   "adet": 22
+  },
+  "Citroen|C-Elysee": {
+   "motor_hacmi": 1560.0,
+   "motor_gucu": 93.0,
+   "yakit_tipi": "Dizel",
+   "vites_tipi": "Düz",
+   "kasa_tipi": "Sedan",
+   "yil": 2016,
+   "adet": 584
+  },
+  "Citroen|C1": {
+   "motor_hacmi": 1099.0,
+   "motor_gucu": 69.0,
+   "yakit_tipi": "Benzin",
+   "vites_tipi": "Düz",
+   "kasa_tipi": "Hatchback/5",
+   "yil": 2007,
+   "adet": 16
+  },
+  "Citroen|C2": {
+   "motor_hacmi": 1398.0,
+   "motor_gucu": 71.0,
+   "yakit_tipi": "Benzin",
+   "vites_tipi": "Düz",
+   "kasa_tipi": "Hatchback/3",
+   "yil": 2005,
+   "adet": 14
+  },
+  "Citroen|C3": {
+   "motor_hacmi": 1300.0,
+   "motor_gucu": 88.0,
+   "yakit_tipi": "Benzin",
+   "vites_tipi": "Düz",
+   "kasa_tipi": "Hatchback/5",
+   "yil": 2012,
+   "adet": 473
+  },
+  "Citroen|C4": {
+   "motor_hacmi": 1560.0,
+   "motor_gucu": 111.0,
+   "yakit_tipi": "Dizel",
+   "vites_tipi": "Düz",
+   "kasa_tipi": "Hatchback/5",
+   "yil": 2011,
+   "adet": 444
+  },
+  "Citroen|C4 Grand Picasso": {
+   "motor_hacmi": 1560.0,
+   "motor_gucu": 113.0,
+   "yakit_tipi": "Dizel",
+   "vites_tipi": "Otomatik",
+   "kasa_tipi": "MPV",
+   "yil": 2011,
+   "adet": 37
+  },
+  "Citroen|C4 Picasso": {
+   "motor_hacmi": 1560.0,
+   "motor_gucu": 113.0,
+   "yakit_tipi": "Benzin",
+   "vites_tipi": "Otomatik",
+   "kasa_tipi": "MPV",
+   "yil": 2012,
+   "adet": 30
+  },
+  "Citroen|C4 X": {
+   "motor_hacmi": 1200.0,
+   "motor_gucu": 138.0,
+   "yakit_tipi": "Benzin",
+   "vites_tipi": "Otomatik",
+   "kasa_tipi": "Sedan",
+   "yil": 2023,
+   "adet": 109
+  },
+  "Citroen|C5": {
+   "motor_hacmi": 1560.0,
+   "motor_gucu": 113.0,
+   "yakit_tipi": "Dizel",
+   "vites_tipi": "Düz",
+   "kasa_tipi": "Sedan",
+   "yil": 2011,
+   "adet": 154
+  },
+  "Citroen|Saxo": {
+   "motor_hacmi": 1527.0,
+   "motor_gucu": 61.0,
+   "yakit_tipi": "Dizel",
+   "vites_tipi": "Düz",
+   "kasa_tipi": "Hatchback/5",
+   "yil": 2000,
+   "adet": 39
+  },
+  "Citroen|Xsara": {
+   "motor_hacmi": 1587.0,
+   "motor_gucu": 96.0,
+   "yakit_tipi": "LPG & Benzin",
+   "vites_tipi": "Düz",
+   "kasa_tipi": "Hatchback/5",
+   "yil": 2003,
+   "adet": 47
+  },
+  "Citroen|e-C4": {
+   "motor_hacmi": NaN,
+   "motor_gucu": 138.0,
+   "yakit_tipi": "Benzin",
+   "vites_tipi": "Otomatik",
+   "kasa_tipi": "Hatchback/5",
+   "yil": 2023,
+   "adet": 12
+  },
+  "Citroen|e-C4 X": {
+   "motor_hacmi": 1500.0,
+   "motor_gucu": 138.0,
+   "yakit_tipi": "Elektrik",
+   "vites_tipi": "Otomatik",
+   "kasa_tipi": "SUV",
+   "yil": 2024,
+   "adet": 14
+  },
+  "Cupra|Leon": {
+   "motor_hacmi": 1498.0,
+   "motor_gucu": 150.0,
+   "yakit_tipi": "Benzin",
+   "vites_tipi": "Yarı Otomatik",
+   "kasa_tipi": "Hatchback/5",
+   "yil": 2024,
+   "adet": 32
+  },
+  "DS Automobiles|DS4": {
+   "motor_hacmi": 1500.0,
+   "motor_gucu": 122.0,
+   "yakit_tipi": "Dizel",
+   "vites_tipi": "Otomatik",
+   "kasa_tipi": "Hatchback/5",
+   "yil": 2016,
+   "adet": 45
+  },
+  "Dacia|Jogger": {
+   "motor_hacmi": 1200.0,
+   "motor_gucu": 100.0,
+   "yakit_tipi": "Benzin",
+   "vites_tipi": "Düz",
+   "kasa_tipi": "Station wagon",
+   "yil": 2023,
+   "adet": 19
+  },
+  "Dacia|Lodgy": {
+   "motor_hacmi": 1461.0,
+   "motor_gucu": 90.0,
+   "yakit_tipi": "Dizel",
+   "vites_tipi": "Düz",
+   "kasa_tipi": "MPV",
+   "yil": 2016,
+   "adet": 140
+  },
+  "Dacia|Logan": {
+   "motor_hacmi": 1461.0,
+   "motor_gucu": 75.0,
+   "yakit_tipi": "Dizel",
+   "vites_tipi": "Düz",
+   "kasa_tipi": "Sedan",
+   "yil": 2009,
+   "adet": 396
+  },
+  "Dacia|Sandero": {
+   "motor_hacmi": 1461.0,
+   "motor_gucu": 90.0,
+   "yakit_tipi": "Benzin",
+   "vites_tipi": "Düz",
+   "kasa_tipi": "Hatchback/5",
+   "yil": 2016,
+   "adet": 739
+  },
+  "Dacia|Solenza": {
+   "motor_hacmi": 1390.0,
+   "motor_gucu": 75.0,
+   "yakit_tipi": "LPG & Benzin",
+   "vites_tipi": "Düz",
+   "kasa_tipi": "Sedan",
+   "yil": 2004,
+   "adet": 57
+  },
+  "Daewoo|Lanos": {
+   "motor_hacmi": 1498.0,
+   "motor_gucu": 86.0,
+   "yakit_tipi": "LPG & Benzin",
+   "vites_tipi": "Düz",
+   "kasa_tipi": "Sedan",
+   "yil": 1998,
+   "adet": 27
+  },
+  "Daewoo|Nexia": {
+   "motor_hacmi": 1498.0,
+   "motor_gucu": 80.0,
+   "yakit_tipi": "LPG & Benzin",
+   "vites_tipi": "Düz",
+   "kasa_tipi": "Sedan",
+   "yil": 1997,
+   "adet": 13
+  },
+  "Daewoo|Nubira": {
+   "motor_hacmi": 1598.0,
+   "motor_gucu": 106.0,
+   "yakit_tipi": "LPG & Benzin",
+   "vites_tipi": "Düz",
+   "kasa_tipi": "Sedan",
+   "yil": 1999,
+   "adet": 10
+  },
+  "Daihatsu|Sirion": {
+   "motor_hacmi": 1298.0,
+   "motor_gucu": 87.0,
+   "yakit_tipi": "Benzin",
+   "vites_tipi": "Düz",
+   "kasa_tipi": "Hatchback/5",
+   "yil": 2006,
+   "adet": 18
+  },
+  "Fiat|500 Ailesi": {
+   "motor_hacmi": 1300.0,
+   "motor_gucu": 85.0,
+   "yakit_tipi": "Benzin",
+   "vites_tipi": "Düz",
+   "kasa_tipi": "MPV",
+   "yil": 2014,
+   "adet": 35
+  },
+  "Fiat|Albea": {
+   "motor_hacmi": 1248.0,
+   "motor_gucu": 77.0,
+   "yakit_tipi": "Benzin",
+   "vites_tipi": "Düz",
+   "kasa_tipi": "Sedan",
+   "yil": 2006,
+   "adet": 140
+  },
+  "Fiat|Brava": {
+   "motor_hacmi": 1581.0,
+   "motor_gucu": 103.0,
+   "yakit_tipi": "LPG & Benzin",
+   "vites_tipi": "Düz",
+   "kasa_tipi": "Hatchback/5",
+   "yil": 2000,
+   "adet": 22
+  },
+  "Fiat|Bravo": {
+   "motor_hacmi": 1581.0,
+   "motor_gucu": 113.0,
+   "yakit_tipi": "Dizel",
+   "vites_tipi": "Düz",
+   "kasa_tipi": "Hatchback/5",
+   "yil": 2011,
+   "adet": 19
+  },
+  "Fiat|Egea": {
+   "motor_hacmi": 1300.0,
+   "motor_gucu": 95.0,
+   "yakit_tipi": "Benzin",
+   "vites_tipi": "Düz",
+   "kasa_tipi": "Sedan",
+   "yil": 2020,
+   "adet": 798
+  },
+  "Fiat|Linea": {
+   "motor_hacmi": 1248.0,
+   "motor_gucu": 95.0,
+   "yakit_tipi": "Dizel",
+   "vites_tipi": "Düz",
+   "kasa_tipi": "Sedan",
+   "yil": 2013,
+   "adet": 323
+  },
+  "Fiat|Marea": {
+   "motor_hacmi": 1596.0,
+   "motor_gucu": 103.0,
+   "yakit_tipi": "LPG & Benzin",
+   "vites_tipi": "Düz",
+   "kasa_tipi": "Sedan",
+   "yil": 2003,
+   "adet": 46
+  },
+  "Fiat|Palio": {
+   "motor_hacmi": 1300.0,
+   "motor_gucu": 77.0,
+   "yakit_tipi": "LPG & Benzin",
+   "vites_tipi": "Düz",
+   "kasa_tipi": "Hatchback/5",
+   "yil": 2003,
+   "adet": 185
+  },
+  "Fiat|Punto": {
+   "motor_hacmi": 1251.0,
+   "motor_gucu": 76.0,
+   "yakit_tipi": "Benzin",
+   "vites_tipi": "Düz",
+   "kasa_tipi": "Hatchback/5",
+   "yil": 2011,
+   "adet": 153
+  },
+  "Fiat|Siena": {
+   "motor_hacmi": 1372.0,
+   "motor_gucu": 71.0,
+   "yakit_tipi": "LPG & Benzin",
+   "vites_tipi": "Düz",
+   "kasa_tipi": "Sedan",
+   "yil": 2000,
+   "adet": 45
+  },
+  "Fiat|Tempra": {
+   "motor_hacmi": 1581.0,
+   "motor_gucu": 88.0,
+   "yakit_tipi": "LPG & Benzin",
+   "vites_tipi": "Düz",
+   "kasa_tipi": "Sedan",
+   "yil": 1993,
+   "adet": 56
+  },
+  "Fiat|Tipo": {
+   "motor_hacmi": 1500.0,
+   "motor_gucu": 75.0,
+   "yakit_tipi": "LPG & Benzin",
+   "vites_tipi": "Düz",
+   "kasa_tipi": "Hatchback/5",
+   "yil": 1997,
+   "adet": 83
+  },
+  "Fiat|Uno": {
+   "motor_hacmi": 1372.0,
+   "motor_gucu": 71.0,
+   "yakit_tipi": "LPG & Benzin",
+   "vites_tipi": "Düz",
+   "kasa_tipi": "Hatchback/5",
+   "yil": 1997,
+   "adet": 73
+  },
+  "Ford|C-Max": {
+   "motor_hacmi": 1560.0,
+   "motor_gucu": 114.0,
+   "yakit_tipi": "Dizel",
+   "vites_tipi": "Düz",
+   "kasa_tipi": "MPV",
+   "yil": 2011,
+   "adet": 93
+  },
+  "Ford|Escort": {
+   "motor_hacmi": 1597.0,
+   "motor_gucu": 90.0,
+   "yakit_tipi": "LPG & Benzin",
+   "vites_tipi": "Düz",
+   "kasa_tipi": "Sedan",
+   "yil": 1997,
+   "adet": 82
+  },
+  "Ford|Fiesta": {
+   "motor_hacmi": 1398.0,
+   "motor_gucu": 75.0,
+   "yakit_tipi": "Benzin",
+   "vites_tipi": "Düz",
+   "kasa_tipi": "Hatchback/5",
+   "yil": 2011,
+   "adet": 547
+  },
+  "Ford|Focus": {
+   "motor_hacmi": 1560.0,
+   "motor_gucu": 113.0,
+   "yakit_tipi": "Benzin",
+   "vites_tipi": "Düz",
+   "kasa_tipi": "Sedan",
+   "yil": 2013,
+   "adet": 1066
+  },
+  "Ford|Fusion": {
+   "motor_hacmi": 1500.0,
+   "motor_gucu": 88.0,
+   "yakit_tipi": "Dizel",
+   "vites_tipi": "Düz",
+   "kasa_tipi": "Hatchback/5",
+   "yil": 2006,
+   "adet": 42
+  },
+  "Ford|Ka": {
+   "motor_hacmi": 1297.0,
+   "motor_gucu": 60.0,
+   "yakit_tipi": "Benzin",
+   "vites_tipi": "Düz",
+   "kasa_tipi": "Hatchback/3",
+   "yil": 1998,
+   "adet": 17
+  },
+  "Ford|Mondeo": {
+   "motor_hacmi": 1988.0,
+   "motor_gucu": 130.0,
+   "yakit_tipi": "Benzin",
+   "vites_tipi": "Düz",
+   "kasa_tipi": "Sedan",
+   "yil": 2009,
+   "adet": 89
+  },
+  "Ford|Taunus": {
+   "motor_hacmi": 1593.0,
+   "motor_gucu": 101.0,
+   "yakit_tipi": "LPG & Benzin",
+   "vites_tipi": "Düz",
+   "kasa_tipi": "Sedan",
+   "yil": 1990,
+   "adet": 15
+  },
+  "Geely|Echo": {
+   "motor_hacmi": 1342.0,
+   "motor_gucu": 86.0,
+   "yakit_tipi": "Benzin",
+   "vites_tipi": "Düz",
+   "kasa_tipi": "Sedan",
+   "yil": 2010,
+   "adet": 15
+  },
+  "Geely|Emgrand": {
+   "motor_hacmi": 1498.0,
+   "motor_gucu": 106.0,
+   "yakit_tipi": "LPG & Benzin",
+   "vites_tipi": "Düz",
+   "kasa_tipi": "Sedan",
+   "yil": 2012,
+   "adet": 48
+  },
+  "Geely|Familia": {
+   "motor_hacmi": 1498.0,
+   "motor_gucu": 94.0,
+   "yakit_tipi": "Benzin",
+   "vites_tipi": "Düz",
+   "kasa_tipi": "Sedan",
+   "yil": 2010,
+   "adet": 23
+  },
+  "Honda|Accord": {
+   "motor_hacmi": 1996.5,
+   "motor_gucu": 156.0,
+   "yakit_tipi": "Benzin",
+   "vites_tipi": "Otomatik",
+   "kasa_tipi": "Sedan",
+   "yil": 2006,
+   "adet": 71
+  },
+  "Honda|City": {
+   "motor_hacmi": 1498.0,
+   "motor_gucu": 113.0,
+   "yakit_tipi": "Benzin",
+   "vites_tipi": "Otomatik",
+   "kasa_tipi": "Sedan",
+   "yil": 2021,
+   "adet": 141
+  },
+  "Honda|Civic": {
+   "motor_hacmi": 1595.0,
+   "motor_gucu": 125.0,
+   "yakit_tipi": "LPG & Benzin",
+   "vites_tipi": "Otomatik",
+   "kasa_tipi": "Sedan",
+   "yil": 2013,
+   "adet": 1626
+  },
+  "Honda|Jazz": {
+   "motor_hacmi": 1339.0,
+   "motor_gucu": 88.0,
+   "yakit_tipi": "Benzin",
+   "vites_tipi": "Otomatik",
+   "kasa_tipi": "Hatchback/5",
+   "yil": 2008,
+   "adet": 147
+  },
+  "Hyundai|Accent": {
+   "motor_hacmi": 1493.0,
+   "motor_gucu": 86.0,
+   "yakit_tipi": "LPG & Benzin",
+   "vites_tipi": "Düz",
+   "kasa_tipi": "Sedan",
+   "yil": 2001,
+   "adet": 316
+  },
+  "Hyundai|Accent Blue": {
+   "motor_hacmi": 1582.0,
+   "motor_gucu": 136.0,
+   "yakit_tipi": "Benzin",
+   "vites_tipi": "Düz",
+   "kasa_tipi": "Sedan",
+   "yil": 2015,
+   "adet": 173
+  },
+  "Hyundai|Accent Era": {
+   "motor_hacmi": 1493.0,
+   "motor_gucu": 110.0,
+   "yakit_tipi": "Benzin",
+   "vites_tipi": "Düz",
+   "kasa_tipi": "Sedan",
+   "yil": 2010,
+   "adet": 251
+  },
+  "Hyundai|Elantra": {
+   "motor_hacmi": 1591.0,
+   "motor_gucu": 127.0,
+   "yakit_tipi": "Benzin",
+   "vites_tipi": "Otomatik",
+   "kasa_tipi": "Sedan",
+   "yil": 2013,
+   "adet": 95
+  },
+  "Hyundai|Excel": {
+   "motor_hacmi": 1468.0,
+   "motor_gucu": 71.0,
+   "yakit_tipi": "LPG & Benzin",
+   "vites_tipi": "Düz",
+   "kasa_tipi": "Sedan",
+   "yil": 1994,
+   "adet": 13
+  },
+  "Hyundai|Getz": {
+   "motor_hacmi": 1399.0,
+   "motor_gucu": 88.0,
+   "yakit_tipi": "Benzin",
+   "vites_tipi": "Düz",
+   "kasa_tipi": "Hatchback/5",
+   "yil": 2007,
+   "adet": 250
+  },
+  "Hyundai|Ioniq": {
+   "motor_hacmi": 1540.0,
+   "motor_gucu": 163.0,
+   "yakit_tipi": "Benzin",
+   "vites_tipi": "Otomatik",
+   "kasa_tipi": "Sedan",
+   "yil": 2024,
+   "adet": 11
+  },
+  "Hyundai|Matrix": {
+   "motor_hacmi": 1493.0,
+   "motor_gucu": 110.0,
+   "yakit_tipi": "Dizel",
+   "vites_tipi": "Düz",
+   "kasa_tipi": "MPV",
+   "yil": 2010,
+   "adet": 22
+  },
+  "Hyundai|i10": {
+   "motor_hacmi": 1200.0,
+   "motor_gucu": 87.0,
+   "yakit_tipi": "Benzin",
+   "vites_tipi": "Otomatik",
+   "kasa_tipi": "Hatchback/5",
+   "yil": 2015,
+   "adet": 54
+  },
+  "Hyundai|i20": {
+   "motor_hacmi": 1300.0,
+   "motor_gucu": 88.0,
+   "yakit_tipi": "Benzin",
+   "vites_tipi": "Otomatik",
+   "kasa_tipi": "Hatchback/5",
+   "yil": 2017,
+   "adet": 610
+  },
+  "Hyundai|i20 Troy": {
+   "motor_hacmi": 1396.0,
+   "motor_gucu": 88.0,
+   "yakit_tipi": "Benzin",
+   "vites_tipi": "Düz",
+   "kasa_tipi": "Hatchback/5",
+   "yil": 2012,
+   "adet": 28
+  },
+  "Hyundai|i30": {
+   "motor_hacmi": 1582.0,
+   "motor_gucu": 128.0,
+   "yakit_tipi": "Benzin",
+   "vites_tipi": "Otomatik",
+   "kasa_tipi": "Hatchback/5",
+   "yil": 2013,
+   "adet": 105
+  },
+  "Jaguar|X-Type": {
+   "motor_hacmi": 2099.0,
+   "motor_gucu": 157.0,
+   "yakit_tipi": "Benzin",
+   "vites_tipi": "Otomatik",
+   "kasa_tipi": "Sedan",
+   "yil": 2006,
+   "adet": 19
+  },
+  "Jaguar|XE": {
+   "motor_hacmi": 1999.0,
+   "motor_gucu": 180.0,
+   "yakit_tipi": "Benzin",
+   "vites_tipi": "Otomatik",
+   "kasa_tipi": "Sedan",
+   "yil": 2015,
+   "adet": 14
+  },
+  "Jaguar|XF": {
+   "motor_hacmi": 2720.0,
+   "motor_gucu": 238.0,
+   "yakit_tipi": "Benzin",
+   "vites_tipi": "Otomatik",
+   "kasa_tipi": "Sedan",
+   "yil": 2011,
+   "adet": 26
+  },
+  "Kia|Ceed": {
+   "motor_hacmi": 1582.0,
+   "motor_gucu": 128.0,
+   "yakit_tipi": "Dizel",
+   "vites_tipi": "Otomatik",
+   "kasa_tipi": "Hatchback/5",
+   "yil": 2012,
+   "adet": 206
+  },
+  "Kia|Cerato": {
+   "motor_hacmi": 1582.0,
+   "motor_gucu": 115.0,
+   "yakit_tipi": "Dizel",
+   "vites_tipi": "Düz",
+   "kasa_tipi": "Sedan",
+   "yil": 2008,
+   "adet": 171
+  },
+  "Kia|Picanto": {
+   "motor_hacmi": 1120.0,
+   "motor_gucu": 67.0,
+   "yakit_tipi": "Benzin",
+   "vites_tipi": "Otomatik",
+   "kasa_tipi": "Hatchback/5",
+   "yil": 2014,
+   "adet": 148
+  },
+  "Kia|Pride": {
+   "motor_hacmi": 1324.0,
+   "motor_gucu": 64.0,
+   "yakit_tipi": "LPG & Benzin",
+   "vites_tipi": "Düz",
+   "kasa_tipi": "Station wagon",
+   "yil": 2000,
+   "adet": 17
+  },
+  "Kia|Pro Ceed": {
+   "motor_hacmi": 1582.0,
+   "motor_gucu": 115.0,
+   "yakit_tipi": "Dizel",
+   "vites_tipi": "Düz",
+   "kasa_tipi": "Hatchback/3",
+   "yil": 2011,
+   "adet": 13
+  },
+  "Kia|Rio": {
+   "motor_hacmi": 1396.0,
+   "motor_gucu": 97.0,
+   "yakit_tipi": "Dizel",
+   "vites_tipi": "Düz",
+   "kasa_tipi": "Hatchback/5",
+   "yil": 2012,
+   "adet": 415
+  },
+  "Kia|Sephia": {
+   "motor_hacmi": 1498.0,
+   "motor_gucu": 80.0,
+   "yakit_tipi": "LPG & Benzin",
+   "vites_tipi": "Düz",
+   "kasa_tipi": "Sedan",
+   "yil": 1998,
+   "adet": 37
+  },
+  "Kia|Venga": {
+   "motor_hacmi": 1396.0,
+   "motor_gucu": 90.0,
+   "yakit_tipi": "Dizel",
+   "vites_tipi": "Düz",
+   "kasa_tipi": "MPV",
+   "yil": 2011,
+   "adet": 24
+  },
+  "Lada|Kalina": {
+   "motor_hacmi": 1596.0,
+   "motor_gucu": 80.0,
+   "yakit_tipi": "LPG & Benzin",
+   "vites_tipi": "Düz",
+   "kasa_tipi": "Sedan",
+   "yil": 2008,
+   "adet": 12
+  },
+  "Lada|Samara": {
+   "motor_hacmi": 1500.0,
+   "motor_gucu": 70.0,
+   "yakit_tipi": "LPG & Benzin",
+   "vites_tipi": "Düz",
+   "kasa_tipi": "Hatchback/5",
+   "yil": 1993,
+   "adet": 178
+  },
+  "Lada|Vega": {
+   "motor_hacmi": 1499.0,
+   "motor_gucu": 78.0,
+   "yakit_tipi": "LPG & Benzin",
+   "vites_tipi": "Düz",
+   "kasa_tipi": "Sedan",
+   "yil": 2001,
+   "adet": 201
+  },
+  "Lancia|Delta": {
+   "motor_hacmi": 1598.0,
+   "motor_gucu": 120.0,
+   "yakit_tipi": "Dizel",
+   "vites_tipi": "Yarı Otomatik",
+   "kasa_tipi": "Hatchback/5",
+   "yil": 2011,
+   "adet": 23
+  },
+  "Lancia|Ypsilon": {
+   "motor_hacmi": 1200.0,
+   "motor_gucu": 85.0,
+   "yakit_tipi": "Benzin",
+   "vites_tipi": "Otomatik",
+   "kasa_tipi": "Hatchback/5",
+   "yil": 2013,
+   "adet": 13
+  },
+  "MG|MG4": {
+   "motor_hacmi": NaN,
+   "motor_gucu": 187.0,
+   "yakit_tipi": "Elektrik",
+   "vites_tipi": "Otomatik",
+   "kasa_tipi": "Hatchback/5",
+   "yil": 2023,
+   "adet": 16
+  },
+  "MINI|Cooper": {
+   "motor_hacmi": 1500.0,
+   "motor_gucu": 116.0,
+   "yakit_tipi": "Benzin",
+   "vites_tipi": "Otomatik",
+   "kasa_tipi": "Hatchback/3",
+   "yil": 2015,
+   "adet": 130
+  },
+  "MINI|Cooper Clubman": {
+   "motor_hacmi": 1500.0,
+   "motor_gucu": 138.0,
+   "yakit_tipi": "Benzin",
+   "vites_tipi": "Otomatik",
+   "kasa_tipi": "Station wagon",
+   "yil": 2016,
+   "adet": 12
+  },
+  "MINI|Cooper S": {
+   "motor_hacmi": 1598.0,
+   "motor_gucu": 170.0,
+   "yakit_tipi": "Benzin",
+   "vites_tipi": "Otomatik",
+   "kasa_tipi": "Hatchback/3",
+   "yil": 2009,
+   "adet": 28
+  },
+  "MINI|One": {
+   "motor_hacmi": 1500.0,
+   "motor_gucu": 92.5,
+   "yakit_tipi": "Benzin",
+   "vites_tipi": "Düz",
+   "kasa_tipi": "Hatchback/3",
+   "yil": 2009,
+   "adet": 14
+  },
+  "Maserati|Ghibli": {
+   "motor_hacmi": 2987.0,
+   "motor_gucu": 275.0,
+   "yakit_tipi": "Benzin",
+   "vites_tipi": "Otomatik",
+   "kasa_tipi": "Sedan",
+   "yil": 2015,
+   "adet": 12
+  },
+  "Mazda|2": {
+   "motor_hacmi": 1349.0,
+   "motor_gucu": 86.0,
+   "yakit_tipi": "Benzin",
+   "vites_tipi": "Düz",
+   "kasa_tipi": "Hatchback/5",
+   "yil": 2009,
+   "adet": 13
+  },
+  "Mazda|3": {
+   "motor_hacmi": 1598.0,
+   "motor_gucu": 105.0,
+   "yakit_tipi": "LPG & Benzin",
+   "vites_tipi": "Düz",
+   "kasa_tipi": "Sedan",
+   "yil": 2010,
+   "adet": 138
+  },
+  "Mazda|323": {
+   "motor_hacmi": 1597.0,
+   "motor_gucu": 88.0,
+   "yakit_tipi": "LPG & Benzin",
+   "vites_tipi": "Düz",
+   "kasa_tipi": "Sedan",
+   "yil": 1997,
+   "adet": 156
+  },
+  "Mazda|6": {
+   "motor_hacmi": 1999.0,
+   "motor_gucu": 144.0,
+   "yakit_tipi": "Benzin",
+   "vites_tipi": "Otomatik",
+   "kasa_tipi": "Sedan",
+   "yil": 2007,
+   "adet": 22
+  },
+  "Mazda|626": {
+   "motor_hacmi": 1991.0,
+   "motor_gucu": 115.0,
+   "yakit_tipi": "LPG & Benzin",
+   "vites_tipi": "Düz",
+   "kasa_tipi": "Sedan",
+   "yil": 1993,
+   "adet": 69
+  },
+  "Mazda|Lantis": {
+   "motor_hacmi": 1840.0,
+   "motor_gucu": 122.0,
+   "yakit_tipi": "LPG & Benzin",
+   "vites_tipi": "Düz",
+   "kasa_tipi": "Sedan",
+   "yil": 1997,
+   "adet": 17
+  },
+  "Mercedes - Benz|190": {
+   "motor_hacmi": 1997.0,
+   "motor_gucu": 123.0,
+   "yakit_tipi": "Benzin",
+   "vites_tipi": "Düz",
+   "kasa_tipi": "Sedan",
+   "yil": 1989,
+   "adet": 30
+  },
+  "Mercedes - Benz|200": {
+   "motor_hacmi": 1997.0,
+   "motor_gucu": 118.0,
+   "yakit_tipi": "Benzin",
+   "vites_tipi": "Düz",
+   "kasa_tipi": "Sedan",
+   "yil": 1990,
+   "adet": 57
+  },
+  "Mercedes - Benz|230": {
+   "motor_hacmi": 2299.0,
+   "motor_gucu": 132.0,
+   "yakit_tipi": "LPG & Benzin",
+   "vites_tipi": "Düz",
+   "kasa_tipi": "Sedan",
+   "yil": 1986,
+   "adet": 10
+  },
+  "Mercedes - Benz|300": {
+   "motor_hacmi": 2750.0,
+   "motor_gucu": 180.0,
+   "yakit_tipi": "Benzin",
+   "vites_tipi": "Otomatik",
+   "kasa_tipi": "Sedan",
+   "yil": 1987,
+   "adet": 21
+  },
+  "Mercedes - Benz|A": {
+   "motor_hacmi": 1500.0,
+   "motor_gucu": 113.0,
+   "yakit_tipi": "Benzin",
+   "vites_tipi": "Otomatik",
+   "kasa_tipi": "Hatchback/5",
+   "yil": 2015,
+   "adet": 166
+  },
+  "Mercedes - Benz|B": {
+   "motor_hacmi": 1500.0,
+   "motor_gucu": 113.0,
+   "yakit_tipi": "Benzin",
+   "vites_tipi": "Otomatik",
+   "kasa_tipi": "MPV",
+   "yil": 2014,
+   "adet": 55
+  },
+  "Mercedes - Benz|C": {
+   "motor_hacmi": 1598.0,
+   "motor_gucu": 156.0,
+   "yakit_tipi": "Benzin",
+   "vites_tipi": "Otomatik",
+   "kasa_tipi": "Sedan",
+   "yil": 2015,
+   "adet": 698
+  },
+  "Mercedes - Benz|CLA": {
+   "motor_hacmi": 1500.0,
+   "motor_gucu": 156.0,
+   "yakit_tipi": "Benzin",
+   "vites_tipi": "Otomatik",
+   "kasa_tipi": "Coupe",
+   "yil": 2016,
+   "adet": 145
+  },
+  "Mercedes - Benz|CLK": {
+   "motor_hacmi": 1949.0,
+   "motor_gucu": 163.0,
+   "yakit_tipi": "Benzin",
+   "vites_tipi": "Otomatik",
+   "kasa_tipi": "Coupe",
+   "yil": 2001,
+   "adet": 19
+  },
+  "Mercedes - Benz|CLS": {
+   "motor_hacmi": 2750.0,
+   "motor_gucu": 263.0,
+   "yakit_tipi": "Benzin",
+   "vites_tipi": "Otomatik",
+   "kasa_tipi": "Coupe",
+   "yil": 2015,
+   "adet": 32
+  },
+  "Mercedes - Benz|E": {
+   "motor_hacmi": 1900.0,
+   "motor_gucu": 163.0,
+   "yakit_tipi": "Benzin",
+   "vites_tipi": "Otomatik",
+   "kasa_tipi": "Sedan",
+   "yil": 2013,
+   "adet": 557
+  },
+  "Mercedes - Benz|EQE": {
+   "motor_hacmi": NaN,
+   "motor_gucu": 288.0,
+   "yakit_tipi": "Benzin",
+   "vites_tipi": "Otomatik",
+   "kasa_tipi": "Sedan",
+   "yil": 2022,
+   "adet": 16
+  },
+  "Mercedes - Benz|S": {
+   "motor_hacmi": 2987.0,
+   "motor_gucu": 238.0,
+   "yakit_tipi": "Benzin",
+   "vites_tipi": "Otomatik",
+   "kasa_tipi": "Sedan",
+   "yil": 2009,
+   "adet": 87
+  },
+  "Mitsubishi|Carisma": {
+   "motor_hacmi": 1597.0,
+   "motor_gucu": 100.0,
+   "yakit_tipi": "LPG & Benzin",
+   "vites_tipi": "Düz",
+   "kasa_tipi": "Hatchback/5",
+   "yil": 2000,
+   "adet": 76
+  },
+  "Mitsubishi|Colt": {
+   "motor_hacmi": 1332.0,
+   "motor_gucu": 95.0,
+   "yakit_tipi": "Benzin",
+   "vites_tipi": "Düz",
+   "kasa_tipi": "Hatchback/5",
+   "yil": 2008,
+   "adet": 57
+  },
+  "Mitsubishi|Lancer": {
+   "motor_hacmi": 1500.0,
+   "motor_gucu": 109.0,
+   "yakit_tipi": "LPG & Benzin",
+   "vites_tipi": "Düz",
+   "kasa_tipi": "Sedan",
+   "yil": 2007,
+   "adet": 105
+  },
+  "Mitsubishi|Space Star": {
+   "motor_hacmi": 1200.0,
+   "motor_gucu": 71.0,
+   "yakit_tipi": "Benzin",
+   "vites_tipi": "Otomatik",
+   "kasa_tipi": "Hatchback/5",
+   "yil": 2019,
+   "adet": 38
+  },
+  "Nissan|Almera": {
+   "motor_hacmi": 1498.0,
+   "motor_gucu": 98.0,
+   "yakit_tipi": "LPG & Benzin",
+   "vites_tipi": "Düz",
+   "kasa_tipi": "Hatchback/5",
+   "yil": 2005,
+   "adet": 119
+  },
+  "Nissan|Maxima": {
+   "motor_hacmi": 1995.0,
+   "motor_gucu": 140.0,
+   "yakit_tipi": "LPG & Benzin",
+   "vites_tipi": "Düz",
+   "kasa_tipi": "Sedan",
+   "yil": 1997,
+   "adet": 14
+  },
+  "Nissan|Micra": {
+   "motor_hacmi": 1200.0,
+   "motor_gucu": 82.0,
+   "yakit_tipi": "Benzin",
+   "vites_tipi": "Otomatik",
+   "kasa_tipi": "Hatchback/5",
+   "yil": 2011,
+   "adet": 383
+  },
+  "Nissan|Note": {
+   "motor_hacmi": 1461.0,
+   "motor_gucu": 88.0,
+   "yakit_tipi": "Dizel",
+   "vites_tipi": "Düz",
+   "kasa_tipi": "Hatchback/5",
+   "yil": 2009,
+   "adet": 76
+  },
+  "Nissan|Primera": {
+   "motor_hacmi": 1597.0,
+   "motor_gucu": 100.0,
+   "yakit_tipi": "LPG & Benzin",
+   "vites_tipi": "Düz",
+   "kasa_tipi": "Sedan",
+   "yil": 2000,
+   "adet": 167
+  },
+  "Nissan|Pulsar": {
+   "motor_hacmi": 1197.0,
+   "motor_gucu": 115.0,
+   "yakit_tipi": "Benzin",
+   "vites_tipi": "Otomatik",
+   "kasa_tipi": "Hatchback/5",
+   "yil": 2016,
+   "adet": 13
+  },
+  "Nissan|Sunny": {
+   "motor_hacmi": 1597.0,
+   "motor_gucu": 90.0,
+   "yakit_tipi": "LPG & Benzin",
+   "vites_tipi": "Düz",
+   "kasa_tipi": "Sedan",
+   "yil": 1992,
+   "adet": 23
+  },
+  "Opel|Astra": {
+   "motor_hacmi": 1598.0,
+   "motor_gucu": 113.0,
+   "yakit_tipi": "Benzin",
+   "vites_tipi": "Düz",
+   "kasa_tipi": "Hatchback/5",
+   "yil": 2011,
+   "adet": 960
+  },
+  "Opel|Corsa": {
+   "motor_hacmi": 1248.0,
+   "motor_gucu": 88.0,
+   "yakit_tipi": "Benzin",
+   "vites_tipi": "Düz",
+   "kasa_tipi": "Hatchback/5",
+   "yil": 2011,
+   "adet": 585
+  },
+  "Opel|Insignia": {
+   "motor_hacmi": 1598.0,
+   "motor_gucu": 136.0,
+   "yakit_tipi": "Benzin",
+   "vites_tipi": "Otomatik",
+   "kasa_tipi": "Sedan",
+   "yil": 2015,
+   "adet": 149
+  },
+  "Opel|Meriva": {
+   "motor_hacmi": 1598.0,
+   "motor_gucu": 100.0,
+   "yakit_tipi": "LPG & Benzin",
+   "vites_tipi": "Düz",
+   "kasa_tipi": "MPV",
+   "yil": 2006,
+   "adet": 26
+  },
+  "Opel|Vectra": {
+   "motor_hacmi": 1900.0,
+   "motor_gucu": 113.0,
+   "yakit_tipi": "LPG & Benzin",
+   "vites_tipi": "Düz",
+   "kasa_tipi": "Sedan",
+   "yil": 1998,
+   "adet": 208
+  },
+  "Opel|Zafira": {
+   "motor_hacmi": 1598.0,
+   "motor_gucu": 105.0,
+   "yakit_tipi": "Benzin",
+   "vites_tipi": "Düz",
+   "kasa_tipi": "MPV",
+   "yil": 2004,
+   "adet": 17
+  },
+  "Peugeot|106": {
+   "motor_hacmi": 1360.0,
+   "motor_gucu": 76.0,
+   "yakit_tipi": "Benzin",
+   "vites_tipi": "Düz",
+   "kasa_tipi": "Hatchback/5",
+   "yil": 1998,
+   "adet": 46
+  },
+  "Peugeot|107": {
+   "motor_hacmi": 1200.0,
+   "motor_gucu": 63.0,
+   "yakit_tipi": "Benzin",
+   "vites_tipi": "Düz",
+   "kasa_tipi": "Hatchback/5",
+   "yil": 2008,
+   "adet": 16
+  },
+  "Peugeot|206": {
+   "motor_hacmi": 1360.0,
+   "motor_gucu": 76.0,
+   "yakit_tipi": "Benzin",
+   "vites_tipi": "Düz",
+   "kasa_tipi": "Hatchback/5",
+   "yil": 2005,
+   "adet": 362
+  },
+  "Peugeot|206+": {
+   "motor_hacmi": 1398.0,
+   "motor_gucu": 71.0,
+   "yakit_tipi": "Dizel",
+   "vites_tipi": "Düz",
+   "kasa_tipi": "Hatchback/5",
+   "yil": 2011,
+   "adet": 53
+  },
+  "Peugeot|207": {
+   "motor_hacmi": 1398.0,
+   "motor_gucu": 76.0,
+   "yakit_tipi": "Benzin",
+   "vites_tipi": "Düz",
+   "kasa_tipi": "Hatchback/5",
+   "yil": 2009,
+   "adet": 178
+  },
+  "Peugeot|208": {
+   "motor_hacmi": 1200.0,
+   "motor_gucu": 88.0,
+   "yakit_tipi": "Benzin",
+   "vites_tipi": "Otomatik",
+   "kasa_tipi": "Hatchback/5",
+   "yil": 2016,
+   "adet": 160
+  },
+  "Peugeot|301": {
+   "motor_hacmi": 1560.0,
+   "motor_gucu": 93.0,
+   "yakit_tipi": "Dizel",
+   "vites_tipi": "Düz",
+   "kasa_tipi": "Sedan",
+   "yil": 2017,
+   "adet": 349
+  },
+  "Peugeot|306": {
+   "motor_hacmi": 1587.0,
+   "motor_gucu": 99.0,
+   "yakit_tipi": "LPG & Benzin",
+   "vites_tipi": "Düz",
+   "kasa_tipi": "Hatchback/5",
+   "yil": 2000,
+   "adet": 54
+  },
+  "Peugeot|307": {
+   "motor_hacmi": 1560.0,
+   "motor_gucu": 110.0,
+   "yakit_tipi": "LPG & Benzin",
+   "vites_tipi": "Düz",
+   "kasa_tipi": "Hatchback/5",
+   "yil": 2004,
+   "adet": 240
+  },
+  "Peugeot|308": {
+   "motor_hacmi": 1530.0,
+   "motor_gucu": 122.0,
+   "yakit_tipi": "Benzin",
+   "vites_tipi": "Otomatik",
+   "kasa_tipi": "Hatchback/5",
+   "yil": 2014,
+   "adet": 235
+  },
+  "Peugeot|406": {
+   "motor_hacmi": 1997.0,
+   "motor_gucu": 137.0,
+   "yakit_tipi": "LPG & Benzin",
+   "vites_tipi": "Otomatik",
+   "kasa_tipi": "Sedan",
+   "yil": 2000,
+   "adet": 26
+  },
+  "Peugeot|407": {
+   "motor_hacmi": 1560.0,
+   "motor_gucu": 112.0,
+   "yakit_tipi": "Dizel",
+   "vites_tipi": "Düz",
+   "kasa_tipi": "Sedan",
+   "yil": 2007,
+   "adet": 88
+  },
+  "Peugeot|508": {
+   "motor_hacmi": 1500.0,
+   "motor_gucu": 130.0,
+   "yakit_tipi": "Benzin",
+   "vites_tipi": "Otomatik",
+   "kasa_tipi": "Sedan",
+   "yil": 2019,
+   "adet": 155
+  },
+  "Porsche|911": {
+   "motor_hacmi": 3750.0,
+   "motor_gucu": 363.0,
+   "yakit_tipi": "Benzin",
+   "vites_tipi": "Otomatik",
+   "kasa_tipi": "Coupe",
+   "yil": 2006,
+   "adet": 13
+  },
+  "Porsche|Panamera": {
+   "motor_hacmi": 2967.0,
+   "motor_gucu": 300.0,
+   "yakit_tipi": "Benzin",
+   "vites_tipi": "Otomatik",
+   "kasa_tipi": "Hatchback/5",
+   "yil": 2012,
+   "adet": 44
+  },
+  "Porsche|Taycan": {
+   "motor_hacmi": NaN,
+   "motor_gucu": 563.0,
+   "yakit_tipi": "Benzin",
+   "vites_tipi": "Otomatik",
+   "kasa_tipi": "Coupe",
+   "yil": 2020,
+   "adet": 18
+  },
+  "Proton|415": {
+   "motor_hacmi": 1468.0,
+   "motor_gucu": 91.0,
+   "yakit_tipi": "LPG & Benzin",
+   "vites_tipi": "Düz",
+   "kasa_tipi": "Sedan",
+   "yil": 1999,
+   "adet": 20
+  },
+  "Proton|416": {
+   "motor_hacmi": 1597.0,
+   "motor_gucu": 114.0,
+   "yakit_tipi": "LPG & Benzin",
+   "vites_tipi": "Düz",
+   "kasa_tipi": "Hatchback/5",
+   "yil": 1998,
+   "adet": 14
+  },
+  "Proton|418": {
+   "motor_hacmi": 1834.0,
+   "motor_gucu": 117.0,
+   "yakit_tipi": "LPG & Benzin",
+   "vites_tipi": "Otomatik",
+   "kasa_tipi": "Hatchback/5",
+   "yil": 1999,
+   "adet": 10
+  },
+  "Proton|Gen 2": {
+   "motor_hacmi": 1597.0,
+   "motor_gucu": 111.0,
+   "yakit_tipi": "LPG & Benzin",
+   "vites_tipi": "Düz",
+   "kasa_tipi": "Hatchback/5",
+   "yil": 2007,
+   "adet": 11
+  },
+  "Renault|Clio": {
+   "motor_hacmi": 1300.0,
+   "motor_gucu": 88.0,
+   "yakit_tipi": "Benzin",
+   "vites_tipi": "Düz",
+   "kasa_tipi": "Hatchback/5",
+   "yil": 2017,
+   "adet": 643
+  },
+  "Renault|Fluence": {
+   "motor_hacmi": 1461.0,
+   "motor_gucu": 110.0,
+   "yakit_tipi": "Benzin",
+   "vites_tipi": "Düz",
+   "kasa_tipi": "Sedan",
+   "yil": 2013,
+   "adet": 157
+  },
+  "Renault|Laguna": {
+   "motor_hacmi": 1870.0,
+   "motor_gucu": 115.0,
+   "yakit_tipi": "Benzin",
+   "vites_tipi": "Düz",
+   "kasa_tipi": "Hatchback/5",
+   "yil": 2003,
+   "adet": 34
+  },
+  "Renault|Latitude": {
+   "motor_hacmi": 1461.0,
+   "motor_gucu": 110.0,
+   "yakit_tipi": "Dizel",
+   "vites_tipi": "Düz",
+   "kasa_tipi": "Sedan",
+   "yil": 2011,
+   "adet": 11
+  },
+  "Renault|Megane": {
+   "motor_hacmi": 1461.0,
+   "motor_gucu": 113.0,
+   "yakit_tipi": "Benzin",
+   "vites_tipi": "Otomatik",
+   "kasa_tipi": "Sedan",
+   "yil": 2017,
+   "adet": 599
+  },
+  "Renault|R 12": {
+   "motor_hacmi": 1397.0,
+   "motor_gucu": 72.0,
+   "yakit_tipi": "Benzin",
+   "vites_tipi": "Düz",
+   "kasa_tipi": "Station wagon",
+   "yil": 1992,
+   "adet": 47
+  },
+  "Renault|R 19": {
+   "motor_hacmi": 1598.0,
+   "motor_gucu": 90.0,
+   "yakit_tipi": "Benzin",
+   "vites_tipi": "Düz",
+   "kasa_tipi": "Sedan",
+   "yil": 1997,
+   "adet": 65
+  },
+  "Renault|R 9": {
+   "motor_hacmi": 1390.0,
+   "motor_gucu": 83.0,
+   "yakit_tipi": "LPG & Benzin",
+   "vites_tipi": "Düz",
+   "kasa_tipi": "Sedan",
+   "yil": 1994,
+   "adet": 84
+  },
+  "Renault|Scenic": {
+   "motor_hacmi": 1598.0,
+   "motor_gucu": 113.0,
+   "yakit_tipi": "Benzin",
+   "vites_tipi": "Düz",
+   "kasa_tipi": "MPV",
+   "yil": 2004,
+   "adet": 28
+  },
+  "Renault|Symbol": {
+   "motor_hacmi": 1461.0,
+   "motor_gucu": 75.0,
+   "yakit_tipi": "Benzin",
+   "vites_tipi": "Düz",
+   "kasa_tipi": "Sedan",
+   "yil": 2013,
+   "adet": 215
+  },
+  "Renault|Taliant": {
+   "motor_hacmi": 1200.0,
+   "motor_gucu": 88.0,
+   "yakit_tipi": "Benzin",
+   "vites_tipi": "Otomatik",
+   "kasa_tipi": "Sedan",
+   "yil": 2022,
+   "adet": 21
+  },
+  "Rover|216": {
+   "motor_hacmi": 1589.0,
+   "motor_gucu": 111.0,
+   "yakit_tipi": "LPG & Benzin",
+   "vites_tipi": "Düz",
+   "kasa_tipi": "Hatchback/5",
+   "yil": 1998,
+   "adet": 14
+  },
+  "Rover|416": {
+   "motor_hacmi": 1589.0,
+   "motor_gucu": 111.0,
+   "yakit_tipi": "LPG & Benzin",
+   "vites_tipi": "Düz",
+   "kasa_tipi": "Sedan",
+   "yil": 1998,
+   "adet": 24
+  },
+  "Seat|Altea": {
+   "motor_hacmi": 1595.0,
+   "motor_gucu": 105.0,
+   "yakit_tipi": "LPG & Benzin",
+   "vites_tipi": "Düz",
+   "kasa_tipi": "MPV",
+   "yil": 2008,
+   "adet": 38
+  },
+  "Seat|Cordoba": {
+   "motor_hacmi": 1422.0,
+   "motor_gucu": 80.0,
+   "yakit_tipi": "Dizel",
+   "vites_tipi": "Düz",
+   "kasa_tipi": "Sedan",
+   "yil": 2004,
+   "adet": 228
+  },
+  "Seat|Ibiza": {
+   "motor_hacmi": 1390.0,
+   "motor_gucu": 88.0,
+   "yakit_tipi": "Benzin",
+   "vites_tipi": "Düz",
+   "kasa_tipi": "Hatchback/5",
+   "yil": 2014,
+   "adet": 535
+  },
+  "Seat|Leon": {
+   "motor_hacmi": 1500.0,
+   "motor_gucu": 113.0,
+   "yakit_tipi": "Benzin",
+   "vites_tipi": "Düz",
+   "kasa_tipi": "Hatchback/5",
+   "yil": 2015,
+   "adet": 981
+  },
+  "Seat|Toledo": {
+   "motor_hacmi": 1598.0,
+   "motor_gucu": 105.0,
+   "yakit_tipi": "LPG & Benzin",
+   "vites_tipi": "Düz",
+   "kasa_tipi": "Sedan",
+   "yil": 2005,
+   "adet": 182
+  },
+  "Skoda|Fabia": {
+   "motor_hacmi": 1300.0,
+   "motor_gucu": 75.0,
+   "yakit_tipi": "Benzin",
+   "vites_tipi": "Düz",
+   "kasa_tipi": "Hatchback/5",
+   "yil": 2006,
+   "adet": 293
+  },
+  "Skoda|Favorit": {
+   "motor_hacmi": 1289.0,
+   "motor_gucu": 57.0,
+   "yakit_tipi": "LPG & Benzin",
+   "vites_tipi": "Düz",
+   "kasa_tipi": "Hatchback/5",
+   "yil": 1993,
+   "adet": 86
+  },
+  "Skoda|Felicia": {
+   "motor_hacmi": 1289.0,
+   "motor_gucu": 63.0,
+   "yakit_tipi": "LPG & Benzin",
+   "vites_tipi": "Düz",
+   "kasa_tipi": "Hatchback/5",
+   "yil": 1998,
+   "adet": 96
+  },
+  "Skoda|Forman": {
+   "motor_hacmi": 1289.0,
+   "motor_gucu": 57.0,
+   "yakit_tipi": "LPG & Benzin",
+   "vites_tipi": "Düz",
+   "kasa_tipi": "Station wagon",
+   "yil": 1993,
+   "adet": 41
+  },
+  "Skoda|Octavia": {
+   "motor_hacmi": 1500.0,
+   "motor_gucu": 113.0,
+   "yakit_tipi": "Benzin",
+   "vites_tipi": "Otomatik",
+   "kasa_tipi": "Hatchback/5",
+   "yil": 2016,
+   "adet": 675
+  },
+  "Skoda|Rapid": {
+   "motor_hacmi": 1422.0,
+   "motor_gucu": 90.0,
+   "yakit_tipi": "Dizel",
+   "vites_tipi": "Yarı Otomatik",
+   "kasa_tipi": "Hatchback/5",
+   "yil": 2015,
+   "adet": 83
+  },
+  "Skoda|Roomster": {
+   "motor_hacmi": 1390.0,
+   "motor_gucu": 80.0,
+   "yakit_tipi": "LPG & Benzin",
+   "vites_tipi": "Düz",
+   "kasa_tipi": "MPV",
+   "yil": 2010,
+   "adet": 23
+  },
+  "Skoda|Scala": {
+   "motor_hacmi": 1200.0,
+   "motor_gucu": 113.0,
+   "yakit_tipi": "Benzin",
+   "vites_tipi": "Otomatik",
+   "kasa_tipi": "Hatchback/5",
+   "yil": 2021,
+   "adet": 98
+  },
+  "Skoda|SuperB": {
+   "motor_hacmi": 1500.0,
+   "motor_gucu": 120.0,
+   "yakit_tipi": "Benzin",
+   "vites_tipi": "Otomatik",
+   "kasa_tipi": "Sedan",
+   "yil": 2017,
+   "adet": 516
+  },
+  "Smart|ForFour": {
+   "motor_hacmi": 1396.5,
+   "motor_gucu": 88.0,
+   "yakit_tipi": "Benzin",
+   "vites_tipi": "Otomatik",
+   "kasa_tipi": "Hatchback/5",
+   "yil": 2006,
+   "adet": 10
+  },
+  "Subaru|Impreza": {
+   "motor_hacmi": 1498.0,
+   "motor_gucu": 107.0,
+   "yakit_tipi": "LPG & Benzin",
+   "vites_tipi": "Düz",
+   "kasa_tipi": "Sedan",
+   "yil": 2007,
+   "adet": 34
+  },
+  "Subaru|Legacy": {
+   "motor_hacmi": 1994.0,
+   "motor_gucu": 150.0,
+   "yakit_tipi": "LPG & Benzin",
+   "vites_tipi": "Otomatik",
+   "kasa_tipi": "Sedan",
+   "yil": 2008,
+   "adet": 10
+  },
+  "Suzuki|Alto": {
+   "motor_hacmi": 1061.0,
+   "motor_gucu": 63.0,
+   "yakit_tipi": "Benzin",
+   "vites_tipi": "Düz",
+   "kasa_tipi": "Hatchback/5",
+   "yil": 2005,
+   "adet": 27
+  },
+  "Suzuki|Baleno": {
+   "motor_hacmi": 1271.0,
+   "motor_gucu": 91.0,
+   "yakit_tipi": "Benzin",
+   "vites_tipi": "Otomatik",
+   "kasa_tipi": "Hatchback/5",
+   "yil": 2016,
+   "adet": 12
+  },
+  "Suzuki|Maruti": {
+   "motor_hacmi": 796.0,
+   "motor_gucu": 45.0,
+   "yakit_tipi": "Benzin",
+   "vites_tipi": "Düz",
+   "kasa_tipi": "Hatchback/5",
+   "yil": 2000,
+   "adet": 20
+  },
+  "Suzuki|SX4": {
+   "motor_hacmi": 1586.0,
+   "motor_gucu": 122.0,
+   "yakit_tipi": "LPG & Benzin",
+   "vites_tipi": "Otomatik",
+   "kasa_tipi": "Hatchback/5",
+   "yil": 2011,
+   "adet": 28
+  },
+  "Suzuki|Swift": {
+   "motor_hacmi": 1298.0,
+   "motor_gucu": 88.0,
+   "yakit_tipi": "Benzin",
+   "vites_tipi": "Düz",
+   "kasa_tipi": "Hatchback/5",
+   "yil": 2007,
+   "adet": 144
+  },
+  "Tata|Indica": {
+   "motor_hacmi": 1405.0,
+   "motor_gucu": 70.0,
+   "yakit_tipi": "Dizel",
+   "vites_tipi": "Düz",
+   "kasa_tipi": "Hatchback/5",
+   "yil": 2006,
+   "adet": 46
+  },
+  "Tata|Indigo": {
+   "motor_hacmi": 1405.0,
+   "motor_gucu": 70.0,
+   "yakit_tipi": "Dizel",
+   "vites_tipi": "Düz",
+   "kasa_tipi": "Sedan",
+   "yil": 2007,
+   "adet": 35
+  },
+  "Tata|Marina": {
+   "motor_hacmi": 1405.0,
+   "motor_gucu": 70.0,
+   "yakit_tipi": "Dizel",
+   "vites_tipi": "Düz",
+   "kasa_tipi": "Station wagon",
+   "yil": 2008,
+   "adet": 21
+  },
+  "Tata|Vista": {
+   "motor_hacmi": 1274.0,
+   "motor_gucu": 75.0,
+   "yakit_tipi": "Dizel",
+   "vites_tipi": "Düz",
+   "kasa_tipi": "Hatchback/5",
+   "yil": 2011,
+   "adet": 12
+  },
+  "Tesla|Model Y": {
+   "motor_hacmi": NaN,
+   "motor_gucu": 513.0,
+   "yakit_tipi": "Elektrik",
+   "vites_tipi": "Otomatik",
+   "kasa_tipi": "Hatchback/5",
+   "yil": 2023,
+   "adet": 137
+  },
+  "Tofaş|Doğan": {
+   "motor_hacmi": 1581.0,
+   "motor_gucu": 83.0,
+   "yakit_tipi": "LPG & Benzin",
+   "vites_tipi": "Düz",
+   "kasa_tipi": "Sedan",
+   "yil": 1994,
+   "adet": 676
+  },
+  "Tofaş|Kartal": {
+   "motor_hacmi": 1581.0,
+   "motor_gucu": 83.0,
+   "yakit_tipi": "LPG & Benzin",
+   "vites_tipi": "Düz",
+   "kasa_tipi": "Station wagon",
+   "yil": 1996,
+   "adet": 222
+  },
+  "Tofaş|Murat": {
+   "motor_hacmi": 1297.0,
+   "motor_gucu": 65.0,
+   "yakit_tipi": "LPG & Benzin",
+   "vites_tipi": "Düz",
+   "kasa_tipi": "Sedan",
+   "yil": 1986,
+   "adet": 18
+  },
+  "Tofaş|Serçe": {
+   "motor_hacmi": 1239.0,
+   "motor_gucu": 65.0,
+   "yakit_tipi": "LPG & Benzin",
+   "vites_tipi": "Düz",
+   "kasa_tipi": "Sedan",
+   "yil": 1993,
+   "adet": 37
+  },
+  "Tofaş|Şahin": {
+   "motor_hacmi": 1581.0,
+   "motor_gucu": 80.0,
+   "yakit_tipi": "LPG & Benzin",
+   "vites_tipi": "Düz",
+   "kasa_tipi": "Sedan",
+   "yil": 1994,
+   "adet": 893
+  },
+  "Toyota|Auris": {
+   "motor_hacmi": 1364.0,
+   "motor_gucu": 90.0,
+   "yakit_tipi": "Benzin",
+   "vites_tipi": "Düz",
+   "kasa_tipi": "Hatchback/5",
+   "yil": 2012,
+   "adet": 209
+  },
+  "Toyota|Avensis": {
+   "motor_hacmi": 1598.0,
+   "motor_gucu": 130.0,
+   "yakit_tipi": "Benzin",
+   "vites_tipi": "Düz",
+   "kasa_tipi": "Sedan",
+   "yil": 2006,
+   "adet": 64
+  },
+  "Toyota|Corolla": {
+   "motor_hacmi": 1500.0,
+   "motor_gucu": 110.0,
+   "yakit_tipi": "Benzin",
+   "vites_tipi": "Otomatik",
+   "kasa_tipi": "Sedan",
+   "yil": 2015,
+   "adet": 1560
+  },
+  "Toyota|Verso": {
+   "motor_hacmi": 1598.0,
+   "motor_gucu": 132.0,
+   "yakit_tipi": "LPG & Benzin",
+   "vites_tipi": "Düz",
+   "kasa_tipi": "MPV",
+   "yil": 2011,
+   "adet": 20
+  },
+  "Toyota|Yaris": {
+   "motor_hacmi": 1300.0,
+   "motor_gucu": 88.0,
+   "yakit_tipi": "Benzin",
+   "vites_tipi": "Otomatik",
+   "kasa_tipi": "Hatchback/5",
+   "yil": 2011,
+   "adet": 134
+  },
+  "Volkswagen|Bora": {
+   "motor_hacmi": 1595.0,
+   "motor_gucu": 105.0,
+   "yakit_tipi": "Benzin",
+   "vites_tipi": "Düz",
+   "kasa_tipi": "Sedan",
+   "yil": 2001,
+   "adet": 48
+  },
+  "Volkswagen|Golf": {
+   "motor_hacmi": 1500.0,
+   "motor_gucu": 113.0,
+   "yakit_tipi": "Benzin",
+   "vites_tipi": "Düz",
+   "kasa_tipi": "Hatchback/5",
+   "yil": 2014,
+   "adet": 434
+  },
+  "Volkswagen|Jetta": {
+   "motor_hacmi": 1500.0,
+   "motor_gucu": 113.0,
+   "yakit_tipi": "Benzin",
+   "vites_tipi": "Otomatik",
+   "kasa_tipi": "Sedan",
+   "yil": 2013,
+   "adet": 244
+  },
+  "Volkswagen|New Beetle": {
+   "motor_hacmi": 1200.0,
+   "motor_gucu": 113.0,
+   "yakit_tipi": "Benzin",
+   "vites_tipi": "Otomatik",
+   "kasa_tipi": "Hatchback/3",
+   "yil": 2014,
+   "adet": 11
+  },
+  "Volkswagen|Passat": {
+   "motor_hacmi": 1500.0,
+   "motor_gucu": 115.0,
+   "yakit_tipi": "Benzin",
+   "vites_tipi": "Otomatik",
+   "kasa_tipi": "Sedan",
+   "yil": 2016,
+   "adet": 657
+  },
+  "Volkswagen|Passat Variant": {
+   "motor_hacmi": 1500.0,
+   "motor_gucu": 121.0,
+   "yakit_tipi": "Benzin",
+   "vites_tipi": "Otomatik",
+   "kasa_tipi": "Station wagon",
+   "yil": 2019,
+   "adet": 16
+  },
+  "Volkswagen|Polo": {
+   "motor_hacmi": 1390.0,
+   "motor_gucu": 88.0,
+   "yakit_tipi": "Benzin",
+   "vites_tipi": "Düz",
+   "kasa_tipi": "Hatchback/5",
+   "yil": 2013,
+   "adet": 502
+  },
+  "Volkswagen|Scirocco": {
+   "motor_hacmi": 1300.0,
+   "motor_gucu": 155.0,
+   "yakit_tipi": "Benzin",
+   "vites_tipi": "Otomatik",
+   "kasa_tipi": "Coupe",
+   "yil": 2013,
+   "adet": 18
+  },
+  "Volkswagen|VW CC": {
+   "motor_hacmi": 1300.0,
+   "motor_gucu": 163.0,
+   "yakit_tipi": "Benzin",
+   "vites_tipi": "Otomatik",
+   "kasa_tipi": "Coupe",
+   "yil": 2014,
+   "adet": 49
+  },
+  "Volvo|C30": {
+   "motor_hacmi": 1560.0,
+   "motor_gucu": 109.0,
+   "yakit_tipi": "Dizel",
+   "vites_tipi": "Düz",
+   "kasa_tipi": "Hatchback/3",
+   "yil": 2008,
+   "adet": 11
+  },
+  "Volvo|S40": {
+   "motor_hacmi": 1587.0,
+   "motor_gucu": 109.0,
+   "yakit_tipi": "LPG & Benzin",
+   "vites_tipi": "Düz",
+   "kasa_tipi": "Sedan",
+   "yil": 2006,
+   "adet": 221
+  },
+  "Volvo|S60": {
+   "motor_hacmi": 1560.0,
+   "motor_gucu": 115.0,
+   "yakit_tipi": "Benzin",
+   "vites_tipi": "Otomatik",
+   "kasa_tipi": "Sedan",
+   "yil": 2014,
+   "adet": 272
+  },
+  "Volvo|S80": {
+   "motor_hacmi": 1934.5,
+   "motor_gucu": 163.0,
+   "yakit_tipi": "Benzin",
+   "vites_tipi": "Otomatik",
+   "kasa_tipi": "Sedan",
+   "yil": 2012,
+   "adet": 65
+  },
+  "Volvo|S90": {
+   "motor_hacmi": 1900.0,
+   "motor_gucu": 238.0,
+   "yakit_tipi": "Benzin",
+   "vites_tipi": "Otomatik",
+   "kasa_tipi": "Sedan",
+   "yil": 2020,
+   "adet": 63
+  },
+  "Volvo|V40": {
+   "motor_hacmi": 1500.0,
+   "motor_gucu": 115.0,
+   "yakit_tipi": "Benzin",
+   "vites_tipi": "Otomatik",
+   "kasa_tipi": "Hatchback/5",
+   "yil": 2014,
+   "adet": 75
+  },
+  "Volvo|V40 Cross Country": {
+   "motor_hacmi": 1560.0,
+   "motor_gucu": 115.0,
+   "yakit_tipi": "Dizel",
+   "vites_tipi": "Yarı Otomatik",
+   "kasa_tipi": "Hatchback/5",
+   "yil": 2014,
+   "adet": 19
+  },
+  "Volvo|V50": {
+   "motor_hacmi": 1560.0,
+   "motor_gucu": 109.0,
+   "yakit_tipi": "Dizel",
+   "vites_tipi": "Düz",
+   "kasa_tipi": "Station wagon",
+   "yil": 2008,
+   "adet": 10
+  },
+  "Volvo|V90 Cross Country": {
+   "motor_hacmi": 1969.0,
+   "motor_gucu": 235.0,
+   "yakit_tipi": "Benzin",
+   "vites_tipi": "Otomatik",
+   "kasa_tipi": "Station wagon",
+   "yil": 2020,
+   "adet": 13
+  }
+ },
+ "vites_tipi": [
+  "Düz",
+  "Otomatik",
+  "Yarı Otomatik"
+ ],
+ "yakit_tipi": [
+  "Benzin",
+  "LPG & Benzin",
+  "Dizel",
+  "Hibrit",
+  "Elektrik"
+ ],
+ "kasa_tipi": [
+  "Sedan",
+  "Hatchback/5",
+  "Station wagon",
+  "Hatchback/3",
+  "Coupe",
+  "MPV",
+  "SUV",
+  "Cabrio",
+  "-",
+  "Roadster",
+  "Pick-up"
+ ],
+ "renk": [
+  "Beyaz",
+  "Gri",
+  "Siyah",
+  "Kırmızı",
+  "Gri (Gümüş)",
+  "Mavi",
+  "Füme",
+  "Lacivert",
+  "Bordo",
+  "Gri (metalik)",
+  "Yeşil",
+  "Mavi (metalik)",
+  "Bej",
+  "Kahverengi",
+  "Şampanya",
+  "Gri (titanyum)",
+  "Yeşil (metalik)",
+  "Sarı",
+  "Turkuaz",
+  "Diğer",
+  "Turuncu",
+  "Altın",
+  "Mor",
+  "Pembe"
+ ],
+ "kimden": [
+  "Sahibinden",
+  "Galeriden",
+  "Yetkili Bayiden"
+ ],
+ "aralik": {
+  "yil": [
+   1980,
+   2025
+  ],
+  "kilometre": [
+   0,
+   1000000
+  ],
+  "fiyat": [
+   99994.02,
+   6990179.999999971
+  ]
+ },
+ "basari": {
+  "mae_tl": 73199.5112441171,
+  "medyan_yuzde_hata": 7.174381921434625,
+  "r2": 0.9439808873279966,
+  "egitim_satir": 40000,
+  "test_satir": 10000
+ }
+}

@@ -31,3 +31,6 @@ kaynak/
 
 # Fiyat botunun bilgisayarda çalıştırılan kopyası (yerel_calistir.bat)
 04-fiyat-takip-botu/veri/yerel_*
+
+# Tahmin uygulamasının çalışması için eğitilmiş model repoda tutulur (0,5 MB)
+!06-tahmin-modeli-arayuz/model/fiyat_modeli.joblib
