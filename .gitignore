@@ -34,3 +34,6 @@ kaynak/
 
 # Tahmin uygulamasının çalışması için eğitilmiş model repoda tutulur (0,5 MB)
 !06-tahmin-modeli-arayuz/model/fiyat_modeli.joblib
+
+# Bionluk ilan metinleri ve görselleri (repoya girmez)
+bionluk/
