@@ -1,0 +1,27 @@
+# Kişisel/ham veri asla repoya girmez
+**/data/*
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.ipynb_checkpoints/
+*.sqlite
+*.db
+
+# Model dosyaları (büyük)
+*.pkl
+*.joblib
+*.pt
+*.pth
+
+# Ortam
+.env
+.DS_Store
+Thumbs.db
+
+# Kişisel planlama notları ve kaynak rehber (repoya girmez)
+PLAN.md
+**/PLAN.md
+kaynak/
