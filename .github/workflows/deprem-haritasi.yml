@@ -1,0 +1,50 @@
+name: Deprem haritasını güncelle
+
+on:
+  schedule:
+    - cron: "0 3 * * *" # her gün 03:00 UTC = 06:00 TSİ
+  workflow_dispatch: # Actions sekmesinden elle çalıştırmak için
+
+permissions:
+  contents: write # güncellenen dosyaları commit'leyebilmek için
+
+concurrency:
+  group: deprem-haritasi
+  cancel-in-progress: false
+
+jobs:
+  guncelle:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    defaults:
+      run:
+        working-directory: 05-canli-veri-haritasi
+
+    steps:
+      - uses: actions/checkout@v7
+
+      - uses: actions/setup-python@v7
+        with:
+          python-version: "3.11"
+          cache: pip
+          cache-dependency-path: 05-canli-veri-haritasi/requirements.txt
+
+      - name: Bağımlılıkları kur
+        run: pip install -r requirements.txt
+
+      # Notebook'u geçici bir kopyaya çalıştırıyoruz: repodaki notebook değişmiyor,
+      # sadece cikti/ klasöründeki harita ve grafik yenileniyor.
+      - name: Notebook'u çalıştır
+        run: jupyter nbconvert --to notebook --execute deprem_haritasi.ipynb --output-dir "$RUNNER_TEMP" --output calistirilan
+
+      - name: Değişiklik varsa commit'le
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add cikti
+          if git diff --cached --quiet; then
+            echo "Yeni veri yok, commit atılmadı."
+          else
+            git commit -m "Deprem haritası güncellendi ($(TZ=Europe/Istanbul date +%d.%m.%Y))"
+            git push
+          fi
