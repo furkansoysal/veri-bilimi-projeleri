@@ -4,7 +4,7 @@
 
 arabam.com'daki ~50 bin ilanla eğitilmiş, bir aracın ikinci el fiyatını tahmin eden makine öğrenmesi modeli ve herkesin kullanabileceği bir web arayüzü.
 
-**🚗 Canlı uygulama:** _yayına alınınca link buraya eklenecek_
+
 
 ![Model karşılaştırması](cikti/model_karsilastirma.png)
 
@@ -80,7 +80,7 @@ pytest
 
 ## English
 
-**Used car price prediction.** A machine learning model trained on ~50K arabam.com listings (Turkey, August 2025) that estimates a car's used price, served through a Streamlit web app.
+**Used car price prediction.** A machine learning model trained on ~50K arabam.com listings (Turkey, August 2025) that estimates a car's used price, served through a [Streamlit web app](https://arac-fiyat-tahmini.streamlit.app).
 
 **Result:** on 10,000 unseen listings the model is off by **73,200 TL on average** and **7.2% for a typical listing** (R² = 0.944). Linear regression (MAE 176,648 TL) was the baseline; random forest halved the error but produced a 95 MB file; gradient boosting matched it (slightly better) at **~200× smaller (0.5 MB)**, so that's the deployed model.
 
