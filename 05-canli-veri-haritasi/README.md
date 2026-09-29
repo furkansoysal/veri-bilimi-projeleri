@@ -1,5 +1,7 @@
 # Son 30 Günün Depremleri — İnteraktif Harita
 
+[Türkçe](#özellikler) · [English](#english)
+
 USGS'in açık deprem servisinden son 30 günde dünyada yaşanan M2.5+ depremleri çekip büyüklüğe göre renklendirilmiş, tıklanabilir bir haritaya basan Python projesi.
 
 ![Günlük deprem sayısı](cikti/gunluk_deprem_sayisi.png)
@@ -45,3 +47,22 @@ jupyter notebook deprem_haritasi.ipynb
 
 - **Türkiye için AFAD verisi.** USGS küresel bir katalog; Türkiye ve çevresinde bu dönemde yalnızca 3 deprem gösteriyor. AFAD'ın açık servisi çok daha küçük depremleri de kaydediyor. Türkiye odaklı bir versiyonda veri kaynağı AFAD olmalı.
 - **Zaman boyutu.** Harita 30 günü tek karede gösteriyor. Bir zaman kaydırıcısıyla depremleri gün gün oynatmak, 03.09'daki gibi yoğunlaşmaların nerede başlayıp nasıl yayıldığını çok daha iyi anlatırdı.
+
+---
+
+## English
+
+**Earthquakes of the last 30 days — interactive map.** A Python project that pulls every M2.5+ earthquake of the past 30 days from the USGS open feed and plots them on a clickable map, sized and colored by magnitude. The map and chart are **regenerated every morning by GitHub Actions**, so the [live map](https://furkansoysal.github.io/veri-bilimi-projeleri/05-canli-veri-haritasi/cikti/deprem_haritasi.html) always shows the latest 30 days.
+
+**Features:** magnitude encoded by both color and size · popups with magnitude, location, local time, depth and a USGS link · toggleable magnitude layers · heatmap layer showing fault lines · two basemaps, fullscreen, mobile-friendly.
+
+**Findings (first run, 2026-09-29):**
+1. **1,970** M2.5+ earthquakes in 30 days — about **66 per day**, mostly along the Pacific Ring of Fire.
+2. The largest was **M6.6** (New Caledonia, 2026-09-26); only **7.9%** were M5 or above.
+3. The busiest day was **2026-09-03** with 127 earthquakes, nearly twice the daily average.
+
+**Data:** USGS Earthquake Hazards Program, `2.5_month.geojson` (free, no sign-up) · 1,970 rows × 7 columns.
+
+**Stack:** Python · requests · pandas · folium (Leaflet) · matplotlib · Jupyter · GitHub Actions · GitHub Pages
+
+**What I'd do differently:** use AFAD data for a Turkey-focused version (USGS lists only 3 events around Turkey in this window), and add a time slider to replay the month day by day.
