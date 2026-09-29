@@ -4,7 +4,7 @@
 
 arabam.com'daki ~50 bin ilanla eğitilmiş, bir aracın ikinci el fiyatını tahmin eden makine öğrenmesi modeli ve herkesin kullanabileceği bir web arayüzü.
 
-
+### 🚗 [Uygulamayı canlı dene](https://arac-fiyat-tahmini.streamlit.app)
 
 ![Model karşılaştırması](cikti/model_karsilastirma.png)
 
