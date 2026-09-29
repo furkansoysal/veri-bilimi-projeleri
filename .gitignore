@@ -25,3 +25,9 @@ Thumbs.db
 PLAN.md
 **/PLAN.md
 kaynak/
+
+# Fiyat botunun veritabanı repoda tutulur: GitHub Actions veriyi her gün bunun üzerine biriktirir.
+!04-fiyat-takip-botu/veri/fiyatlar.sqlite
+
+# Fiyat botunun bilgisayarda çalıştırılan kopyası (yerel_calistir.bat)
+04-fiyat-takip-botu/veri/yerel_*

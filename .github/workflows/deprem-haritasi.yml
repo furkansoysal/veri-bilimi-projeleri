@@ -8,8 +8,9 @@ on:
 permissions:
   contents: write # güncellenen dosyaları commit'leyebilmek için
 
+# Repoya otomatik commit atan tüm workflow'lar aynı sırada bekler, aynı anda push etmez.
 concurrency:
-  group: deprem-haritasi
+  group: otomatik-commit
   cancel-in-progress: false
 
 jobs:
@@ -46,5 +47,6 @@ jobs:
             echo "Yeni veri yok, commit atılmadı."
           else
             git commit -m "Deprem haritası güncellendi ($(TZ=Europe/Istanbul date +%d.%m.%Y))"
+            git pull --rebase
             git push
           fi
