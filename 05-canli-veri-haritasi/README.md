@@ -4,7 +4,9 @@ USGS'in açık deprem servisinden son 30 günde dünyada yaşanan M2.5+ depremle
 
 ![Günlük deprem sayısı](cikti/gunluk_deprem_sayisi.png)
 
-**Harita:** [`cikti/deprem_haritasi.html`](cikti/deprem_haritasi.html) — indirip tarayıcıda açman yeterli, kurulum gerekmiyor.
+### 🗺️ [Haritayı canlı aç](https://furkansoysal.github.io/veri-bilimi-projeleri/05-canli-veri-haritasi/cikti/deprem_haritasi.html)
+
+HTML dosyası: [`cikti/deprem_haritasi.html`](cikti/deprem_haritasi.html) — indirip tarayıcıda da açabilirsin, kurulum gerekmiyor.
 
 ## Özellikler
 
